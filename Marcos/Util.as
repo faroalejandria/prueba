@@ -4,7 +4,7 @@ package utils {
 	import mx.controls.ComboBox;
 	import mx.controls.List;
 	import mx.collections.ArrayCollection;
-	// añadiendo comentario xxx desarrollo
+	// añadiendo comentario xxx desarrollo rama
 	public class Util {
 
 		public static function introspect(o:Object):void{
