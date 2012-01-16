@@ -4,12 +4,12 @@ package utils {
 	import mx.controls.ComboBox;
 	import mx.controls.List;
 	import mx.collections.ArrayCollection;
-	
+	// añadiendo comentario
 	public class Util {
 
 		public static function introspect(o:Object):void{
 			var classInfo:XML = describeType(o);
-			// trace the entire E4X XML object:
+			// trace the entire E4X XML object: 
           //  trace("ClassInfo="+ classInfo.toString());
 
             // List the class name:
