@@ -4,6 +4,9 @@ package utils {
 	import mx.controls.ComboBox;
 	import mx.controls.List;
 	import mx.collections.ArrayCollection;
+<<<<<<< HEAD
+	// añadiendo comentario xxx desarrollo rama otra rama
+=======
 	// añadiendo comentario xxx master fdgfdsgfds
 	// añado la rama 3
 	// otro comentario
