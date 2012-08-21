@@ -11,8 +11,8 @@ package utils {
 	// añado la rama 3
 	// otro comentario
 	
-	//21/8/2012
-	public class Util {
+	//Añadiendo Util2
+	public class Util2 {
 
 		public static function introspect(o:Object):void{
 			var classInfo:XML = describeType(o);
